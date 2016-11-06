@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=str\ match
+comment0.target=int\ linkStart(java.lang.String,\ java.lang.String)
+comment1.params=str\ match
+comment1.target=int\ linkStop(java.lang.String,\ java.lang.String)
+comment2.params=URL
+comment2.target=void\ getLinks(java.lang.String)
+numComments=3

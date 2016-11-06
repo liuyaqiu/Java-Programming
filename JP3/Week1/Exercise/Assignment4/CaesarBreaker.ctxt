@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=message\ counts
+comment0.target=void\ countLetters(java.lang.String,\ int[])
+comment1.params=counts
+comment1.target=int\ maxIndex(int[])
+comment2.params=enc
+comment2.target=int\ getKey(java.lang.String)
+comment3.params=msg\ pos
+comment3.target=java.lang.String\ halfOfString(java.lang.String,\ int)
+comment4.params=enc\ key
+comment4.target=java.lang.String\ decrypt(java.lang.String,\ int)
+comment5.params=message
+comment5.target=java.lang.String\ decryptTwoKeys(java.lang.String)
+comment6.params=
+comment6.target=void\ testDecrypt()
+numComments=7
